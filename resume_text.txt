@@ -1,0 +1,49 @@
+Yashishvin Pothuri
+(512)-718-2722 | yashashwin98@gmail.com | LinkedIn | GitHub
+Experience
+Amazon Web Services Seattle, WA
+Software Engineer Intern May 2025 – Aug 2025
+• Reduced financial planning time by 90% by engineering a Multi Agent GenAI workflow with the Strands Agents
+SDK, using guardrails, RAG grounding, and prompt-engineering to turn inputs into revenue plans.
+• Boosted multi-agent workflow efficiency by 35% by building a scalable MCP server that exposed reusable planning
+tools via a secure, standardized protocol—cutting integration overhead and enabling real-time automation.
+• Reduced hallucinations by 30% through curating a domain-specific R.A.G pipeline with service documentation and
+planning configurations in AWS CDK, ensuring responses were relevant to supported services .
+• Achieved personalized workflows across 1000+ services by implementing a persistent memory layer with Mem0,
+capturing service configurations and user preferences for consistent planning, reporting, and insights.
+Dematic Corporation Milwaukee, WI
+Software Engineer II Aug 2021 – Feb 2024
+• Increased warehouse task throughput by 30% by optimizing a Java/Spring multithreaded microservice through a
+redesigned destination-selection algorithm that incorporated operational constraints for low-latency routing.
+• Extended host compatibility by building a C++ RESTful translation layer with Jansson, applying clean API
+design principles to support 20+ warehouse controllers and improve system interoperability.
+• Improved defect detection by 20% by developing a Java-based simulator that mimicked end-to-end warehouse
+operations from receiving to picking and dispatch processing 1000+ concurrent orders to uncover workflow bottlenecks.
+• Reduced pallet building time by 40% by developing animated, accessible ReactJS visualization components that
+generated balanced, multi-layer pallet layouts to guide operators during stock putaway.
+• Reduced review time by 40% by building a Java/Spring Boot SQL-driven reporting service that provided real-time
+visibility into operational metrics, enabled by indexed tables and cached query layers for fast data retrieval.
+• Improved release velocity by 20% by designing and implementing automated CI/CD pipelines in Jenkins,
+containerizing Java/Spring services with Docker and deploying them to AWS EKS for repeatable, scalable rollouts.
+Skills
+Languages: Python, Java, C++, SQL, JavaScript, Kotlin
+Backend & Frameworks: FastAPI, Flask, Django, Spring Boot, Node.js, Express
+Databases: PostgreSQL, MongoDB, DynamoDB, SQL/NoSQL (indexing, caching)
+Cloud & Infra: AWS (EKS, EC2, S3, IAM, Secrets Manager ), Docker, Kubernetes, Ansible, Jenkins, GitHub Actions
+ML/Agentic AI: PyTorch, Keras, LangChain, LangGraph, Strands SDK, Google ADK, Mem0 Certification: AWS
+Certified Solutions Architect – Associate (link )
+Projects
+ThaliBook | Spring Boot, Vite, A WS ECS, A WS S3 | GitHub
+• Developed a cloud-native restaurant booking platform with a Spring Boot microservice backend and
+Vite-based frontend.
+• Deployed on AWS ECS Fargate behind an Application Load Balancer, achieving multi-AZ fault tolerance and high
+availability.
+Spartan Cove | Mongo DB, Express, React JS, Node JS, A WS EC2, A WS CloudWatch, A WS SNS | GitHub
+• Built a real-time, secure chat platform for SJSU students and faculty on the MERN stack with Google SSO.
+• Implemented observability by integrating AWS CloudWatch + SNS, enabling real-time monitoring and proactive
+alerting.
+Education
+San Jose State University San Jose, CA
+Master of Science, Software Engineering Aug 2024 – Dec 2025
+University of Wisconsin–Madison Madison, WI
+Bachelor of Science, Computer Science Aug 2017 – May 2021
