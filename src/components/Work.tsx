@@ -58,7 +58,7 @@ const Work = () => {
               name: "ThaliBook",
               category: "Cloud-native platform",
               tools: "Spring Boot, Vite, AWS ECS, AWS S3",
-              image: "/images/Thalibook.jpeg",
+              image: `${import.meta.env.BASE_URL}images/Thalibook.jpeg`,
               link: "https://github.com/gopinathsjsu/team-project-2024849-aviato",
               description: "A comprehensive restaurant booking platform that enables users to discover new dining experiences, rate their favorite restaurants, and seamlessly reserve tables."
             },
@@ -66,7 +66,7 @@ const Work = () => {
               name: "Spartan Cove",
               category: "Real-time chat platform",
               tools: "MongoDB, Express, React, Node.js, AWS CloudWatch",
-              image: "/images/SpartanCove.jpeg",
+              image: `${import.meta.env.BASE_URL}images/SpartanCove.jpeg`,
               link: "https://github.com/yashishvin/RAYR_Spartan_Cove",
               description: "An exclusive real-time chat platform similar to WhatsApp, designed specifically for San Jose State University students to connect. It features an integrated AI chat buddy that provides instant information and assistance regarding campus life and resources."
             },
@@ -74,7 +74,7 @@ const Work = () => {
               name: "Educo",
               category: "AI-powered learning platform",
               tools: "Self-evolving Agent Hackathon Winner",
-              image: "/images/educo.jpeg",
+              image: `${import.meta.env.BASE_URL}images/educo.jpeg`,
               link: "https://devpost.com/software/educo-b4z593",
               description: "An award-winning AI-powered learning platform from the Self Evolving Agent Hackathon. Users simply input their learning goals, and the system dynamically generates highly personalized podcasts, study materials, and interactive quizzes tailored exactly to their needs."
             },

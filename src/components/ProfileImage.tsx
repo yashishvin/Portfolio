@@ -25,7 +25,7 @@ const ProfileImage = () => {
         <div className="character-model">
           <div className="character-rim"></div>
           <img 
-            src="/images/yash_photo.jpeg" 
+            src={`${import.meta.env.BASE_URL}images/yash_photo.jpeg`}
             alt="Yashishvin Pothuri" 
             className="profile-photo" 
           />

@@ -6,21 +6,21 @@ const careerData = [
     company: "Amazon Web Services (AWS) - Security Assurance",
     date: "2026 - Present",
     description: "Building and maintaining specialized tools designed to actively support, streamline, and automate comprehensive security audits across AWS infrastructure.",
-    logo: "/images/aws-logo.jpeg"
+    logo: `${import.meta.env.BASE_URL}images/aws-logo.jpeg`
   },
   {
     title: "Software Engineer Intern",
     company: "Amazon Web Services (AWS) - Fintech",
     date: "May 2025 - Aug 2025",
     description: "Helped build sophisticated AI agents powered by generative AI that autonomously streamlined workflows, significantly reducing revenue planning time for financial analysts.",
-    logo: "/images/aws-logo.jpeg"
+    logo: `${import.meta.env.BASE_URL}images/aws-logo.jpeg`
   },
   {
     title: "Software Engineer II",
     company: "Dematic Corporation",
     date: "2021 - 2024",
     description: "Developed robust warehouse management software algorithms. Played a pivotal role in optimizing supply chain efficiency, significantly accelerating logistics throughput and task management for end customers.",
-    logo: "/images/dematic-logo.jpeg"
+    logo: `${import.meta.env.BASE_URL}images/dematic-logo.jpeg`
   }
 ];
 
