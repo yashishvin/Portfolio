@@ -204,6 +204,7 @@
   gap: 18px;
   overflow: hidden;
   padding: 5px 0;
+  white-space: nowrap;
 }
 .landing-info h2 {
   margin: 0;
@@ -215,6 +216,7 @@
   flex-wrap: nowrap;
   text-transform: uppercase;
   letter-spacing: 2px;
+  white-space: nowrap;
 }
 .landing-h2-info-1 {
   position: absolute;
@@ -300,7 +302,7 @@ h2.landing-info-h2-white {
   .landing-intro {
     top: 50%;
     left: auto;
-    right: 66%;
+    right: 58%;
     transform: translate(0%, -50%);
   }
 
@@ -311,14 +313,14 @@ h2.landing-info-h2-white {
     text-align: left;
     transform: translate(0%, -50%);
     right: auto;
-    left: 66%;
+    left: 58%;
   }
 }
 @media screen and (min-width: 1200px) {
   .landing-intro {
     top: 50%;
     left: auto;
-    right: 70%;
+    right: 60%;
     transform: translate(0%, -50%);
   }
 
@@ -329,7 +331,7 @@ h2.landing-info-h2-white {
     text-align: left;
     transform: translate(0%, -50%);
     right: auto;
-    left: 70%;
+    left: 60%;
   }
 }
 @media screen and (min-width: 1600px) {
