@@ -8,6 +8,7 @@ export default function handleResize(
   canvasDiv: React.RefObject<HTMLDivElement>,
   character: THREE.Object3D
 ) {
+  void character;
   if (!canvasDiv.current) return;
   let canvas3d = canvasDiv.current.getBoundingClientRect();
   const width = canvas3d.width;
